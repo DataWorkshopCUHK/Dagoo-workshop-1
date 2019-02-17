@@ -21,19 +21,22 @@
 8.	Write final post in the wechat.
 
 <h2>Important:</h2>
-- Analysis code: python 3	
-- Visualization code: javascript + html + css
-- This work is personal work, not group work
-- For tracking the progress, after completing each step, send me the mail about your progress.
-- All the code should be uploaded to github
-- For further information, please join DaGoo-Slack: https://dagoo.slack.com 
-- Any questions about this work, please feel free to ask.
-
+<ul>
+    <li>Analysis code: python 3</li>	
+<li>Visualization code: javascript + html + css</li>
+<li>This work is personal work, not group work</li>
+<li>For tracking the progress, after completing each step, send me the mail about your progress.</li>
+<li>All the code should be uploaded to github</li>
+<li>For further information, please join DaGoo-Slack: https://dagoo.slack.com </li>
+<li>Any questions about this work, please feel free to ask.</li>
+</ul>
 <h2>Reference:</h2>
-- Project Tracking URL: ____________
-- Project Github URL: https://github.com/DataWorkshopCUHK/Dagoo-workshop-1
-- DaGoo Slack: https://dagoo.slack.com 
-- WeChat: ksw29zz
-
-- Kaggle Dataset URL: (link)
-- Python scikit-learn library: (link)
+<ul>
+<li>Project Tracking URL: ____________</li>
+<li>Project Github URL: https://github.com/DataWorkshopCUHK/Dagoo-workshop-1</li>
+<li>DaGoo Slack: https://dagoo.slack.com </li>
+    <li>WeChat: ksw29zz</li>
+    
+<li>Kaggle Dataset URL: (<a href="https://www.kaggle.com/datasets?sortBy=hottest&group=public&page=1&pageSize=20&size=all&filetype=all&license=odb">link</a>)</li>
+<li>Python scikit-learn library: (<a href="https://scikit-learn.org/stable/">link</a>)</li>
+</ul>
