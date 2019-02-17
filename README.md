@@ -21,18 +21,19 @@ Workshop plan overview
 8.	Write final post in the wechat.
 
 Important:
-•	Analysis code: python 3	
-•	Visualization code: javascript + html + css
-•	This work is personal work, not group work
-•	For tracking the progress, after completing each step, send me the mail about your progress.
-•	All the code should be uploaded to github
-•	For further information, please join DaGoo-Slack: https://dagoo.slack.com 
-•	Any questions about this work, please feel free to ask.
+- Analysis code: python 3	
+- Visualization code: javascript + html + css
+- This work is personal work, not group work
+- For tracking the progress, after completing each step, send me the mail about your progress.
+- All the code should be uploaded to github
+- For further information, please join DaGoo-Slack: https://dagoo.slack.com 
+- Any questions about this work, please feel free to ask.
 
-Project Tracking URL: ____________
-Project Github URL: https://github.com/DataWorkshopCUHK/Dagoo-workshop-1
-DaGoo Slack: https://dagoo.slack.com 
-WeChat: ksw29zz
+Reference:
+- Project Tracking URL: ____________
+- Project Github URL: https://github.com/DataWorkshopCUHK/Dagoo-workshop-1
+- DaGoo Slack: https://dagoo.slack.com 
+- WeChat: ksw29zz
 
-Kaggle Dataset URL: (link)
-Python scikit-learn library: (link)
+- Kaggle Dataset URL: (link)
+- Python scikit-learn library: (link)
