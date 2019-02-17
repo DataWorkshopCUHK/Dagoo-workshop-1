@@ -1,7 +1,7 @@
 <h1>Workshop plan overview</h2>
 
 1.	Get the data from Kaggle Dataset 
-    - Must be open-databse License
+    - Must be open-database  License
 2.	Describe date-set 
     - what’s this dataset
     - columns meaning
@@ -25,6 +25,7 @@
     <li>Analysis code: python 3</li>	
 <li>Visualization code: javascript + html + css</li>
 <li>This work is personal work, not group work</li>
+<li>The data to be analyzied should not overlap each other.</li>
 <li>For tracking the progress, after completing each step, send me the mail about your progress.</li>
 <li>All the code should be uploaded to github</li>
 <li>For further information, please join DaGoo-Slack: https://dagoo.slack.com </li>
@@ -32,6 +33,7 @@
 </ul>
 <h2>Reference:</h2>
 <ul>
+<li>Project Introduction URL: ____________</li>
 <li>Project Tracking URL: ____________</li>
 <li>Project Github URL: https://github.com/DataWorkshopCUHK/Dagoo-workshop-1</li>
 <li>DaGoo Slack: https://dagoo.slack.com </li>
