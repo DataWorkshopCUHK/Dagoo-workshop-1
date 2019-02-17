@@ -33,8 +33,8 @@
 </ul>
 <h2>Reference:</h2>
 <ul>
-<li>Project Introduction URL: ____________</li>
-<li>Project Tracking URL: ____________</li>
+<li>Project Introduction URL: https://docs.qq.com/doc/DUnlMT0t3cG56Q0tU</li>
+<li>Project Tracking URL: https://docs.qq.com/sheet/DUnJTalpETXF6TkVn</li>
 <li>Project Github URL: https://github.com/DataWorkshopCUHK/Dagoo-workshop-1</li>
 <li>DaGoo Slack: https://dagoo.slack.com </li>
     <li>WeChat: ksw29zz</li>
