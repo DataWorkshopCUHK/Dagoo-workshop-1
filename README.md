@@ -37,7 +37,7 @@
 <li>Project Tracking URL: https://docs.qq.com/sheet/DUnJTalpETXF6TkVn</li>
 <li>Project Github URL: https://github.com/DataWorkshopCUHK/Dagoo-workshop-1</li>
 <li>DaGoo Slack: https://dagoo.slack.com </li>
-    <li>WeChat: ksw29zz</li>
+    <li>WeChat: ksw29zz </li>
     
 <li>Kaggle Dataset URL: (<a href="https://www.kaggle.com/datasets?sortBy=hottest&group=public&page=1&pageSize=20&size=all&filetype=all&license=odb">link</a>)</li>
 <li>Python scikit-learn library: (<a href="https://scikit-learn.org/stable/">link</a>)</li>
