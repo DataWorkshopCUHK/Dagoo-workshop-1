@@ -18,7 +18,7 @@
     - Dimensionality Reduction
     - Data-mapping (e.g. mapping to google map)
 7.	Draw the advanced plot based on [6]
-8.	Write final post in the wechat.
+8.	Write final report (after verify, will post in the public wechat post)
 
 <h2>Important:</h2>
 <ul>
